@@ -13,7 +13,9 @@ Reference to Pervasive System course (Sapienza University of Rome): http://ichat
   InfluxDb works on the OS X, Ubuntu & Debian, RedHat & CentOS and Standalone Binaries
 
 # Installation
-  https://influxdata.com/downloads/#influxdb
+  Install influxDb : https://influxdata.com/downloads/#influxdb
+  
+  Install chronograf visualization tool : https://influxdata.com/downloads/#chronograf
   
   I used some telegref datas. You can download telegraf from here.
   https://influxdata.com/downloads/
